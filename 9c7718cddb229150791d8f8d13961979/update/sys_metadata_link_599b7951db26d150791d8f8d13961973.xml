@@ -4,7 +4,7 @@
         <documentkey>d1bba1d1dbe2d150791d8f8d1396194b</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_pointsthing_message"&gt;
     &lt;x_snc_pointsthing_message action="INSERT_OR_UPDATE"&gt;
-        &lt;message&gt;&lt;![CDATA[user + "? There's a frood who really knows where his towel is, and also now has 42 total points (don't panic)';]]&gt;&lt;/message&gt;
+        &lt;message&gt;&lt;![CDATA[user + "? There's a frood who really knows where their towel is, and also now has 42 total points (don't panic)';]]&gt;&lt;/message&gt;
         &lt;point&gt;42&lt;/point&gt;
         &lt;send_to_channel&gt;true&lt;/send_to_channel&gt;
         &lt;sys_created_by&gt;earl.duque&lt;/sys_created_by&gt;
